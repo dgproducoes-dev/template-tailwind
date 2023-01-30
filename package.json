@@ -1,6 +1,6 @@
 {
   "name": "dg-template-tailwindcss",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "description": "Template configurado com TailwindCSS",
